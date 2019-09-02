@@ -333,3 +333,6 @@ gradle-app.setting
 
 # End of https://www.gitignore.io/api/java,sass,node,macos,gradle,windows,eclipse,intellij
 
+### markdown navigator
+.idea/**/markdown*
+
